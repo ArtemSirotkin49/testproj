@@ -1,0 +1,116 @@
+_REQUEST:
+array(2) {
+  ["back_url_admin"]=>
+  string(92) "/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=1&type=news&lang=ru&find_section_section=-1"
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(2) {
+  ["back_url_admin"]=>
+  string(92) "/bitrix/admin/iblock_element_admin.php?IBLOCK_ID=1&type=news&lang=ru&find_section_section=-1"
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(0) {
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(2) {
+  ["value"]=>
+  string(1) "1"
+  ["id"]=>
+  string(1) "1"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+
+_GET:
+array(1) {
+  ["clear_cache"]=>
+  string(1) "Y"
+}
+
+

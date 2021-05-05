@@ -27,4 +27,23 @@ $APPLICATION->SetTitle("Мебельная компания");
 	),
 	false
 );?>
+<?/* $APPLICATION->IncludeComponent(
+	"custom:news.list.custom",
+	".default",
+	array(
+		"IBLOCK_ID" => "1",
+        'AJAX_MODE' => 'Y',
+		"COMPONENT_TEMPLATE" => ".default"
+	),
+	false
+);*/?>
+<?php $APPLICATION->IncludeComponent(
+    "custom:news.list.modified",
+    "",
+    array(
+        "IBLOCK_ID" => "1",
+        "DATE_SORT" => "ASC"
+    ),
+    false
+);?>
 </p><?require($_SERVER["DOCUMENT_ROOT"]."/bitrix/footer.php");?>
